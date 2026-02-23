@@ -1,4 +1,4 @@
-# <p align="center" italic>✨ Tasnime Sahli ✨</p>
+# <p align="center" >✨ Tasnime Sahli ✨</p>
 
 <p align="center">
 <div align="center">
