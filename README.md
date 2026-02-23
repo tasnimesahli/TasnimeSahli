@@ -14,10 +14,13 @@
 
 ---
 
-### 💖 Quote
-<p align="center">
-  <img src="https://img.shields.io/badge/She%20believed%20in%20her%20code%20✨-ff69b4?style=for-the-badge" />
-</p>
+## ✨ About Me
+💡 I'm a **motivated and creative developer** looking for opportunities to work on **real projects**.  
+I combine **logic + creativity** to build clean and functional code.  
+
+- 💻 Focused on **Full-Stack Development**  
+- 🧠 Learning **modern web technologies**  
+- 🚀 Ready to **contribute and grow professionally**
 
 ---
 
@@ -50,7 +53,12 @@
 
 ---
 
-### 📊
+## 🎯 My Goals
+✅ Work on **professional projects**  
+✅ Become a **Full-Stack Developer**  
+✅ Combine **creativity + code** to deliver **impactful solutions**  
+
+---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tasnimesahli&show_icons=true&theme=radical" />
+  ✨ <i>"I'm ready to learn, create, and work on meaningful projects!"</i>
 </p>
