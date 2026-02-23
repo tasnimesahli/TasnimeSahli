@@ -30,19 +30,19 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:tasnimsahli97@gmail.com">
+  <a href="mailto:YOUR_GMAIL">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/tasnimesahli">
+  <a href="https://github.com/YOUR_GITHUB">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://instagram.com/tasn.uim">
+  <a href="https://instagram.com/YOUR_INSTAGRAM">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://x.com/tasnuime">
+  <a href="https://x.com/YOUR_X">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://linkedin.com/in/">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
