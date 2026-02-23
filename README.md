@@ -34,16 +34,16 @@ I combine **logic + creativity** to build clean and functional code.
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:YOUR_GMAIL">
+  <a href="mailto:tasnimsahli97@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB">
+  <a href="https://github.com/tasnimesahli">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
+  <a href="https://instagram.com/tasn.uim">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://x.com/YOUR_X">
+  <a href="https://x.com/tasnuime">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
